@@ -11,4 +11,4 @@ You need to put your json file keystore.json on the directory of the binary.
 ## Commands
 
 - cargo build
-- ./eth-validator-key --password <your-password>
+- ./eth-validator-key --password "your-password"
